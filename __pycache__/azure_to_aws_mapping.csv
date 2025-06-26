@@ -1,0 +1,21 @@
+Azure VM Type,Mapped AWS EC2 Instance
+Standard_B1s,t3.nano
+Standard_B2s,t3.small
+Standard_B1ms,t3.micro
+Standard_B2ms,t3.medium
+Standard_B4ms,t3.large
+Standard_B8ms,t3.xlarge
+Standard_D2s_v3,m5.large
+Standard_D4s_v3,m5.xlarge
+Standard_D8s_v3,m5.2xlarge
+Standard_F2s_v2,c5.large
+Standard_F4s_v2,c5.xlarge
+Standard_F8s_v2,c5.2xlarge
+Standard_F16s_v2,c5.4xlarge
+Standard_E2s_v3,r5.large
+Standard_E4s_v3,r5.xlarge
+Standard_E8s_v3,r5.2xlarge
+Standard_E16s_v3,r5.4xlarge
+Standard_M64ms,u-6tb1.metal
+Standard_H8,h1.2xlarge
+Standard_L8s_v2,i3.2xlarge

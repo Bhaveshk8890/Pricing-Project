@@ -1,0 +1,16 @@
+name,azure_instance_type,azure_region,cores,memory,storage
+vm1,Standard_D2s_v3,eastus,2,8,100
+vm2,Standard_D4s_v3,eastus2,4,16,200
+vm3,Standard_D8s_v3,centralus,8,32,200
+vm4,Standard_F48s_v2,westeurope,48,96,100
+vm5,Standard_E4s_v3,westeurope,4,32,200
+vm6,Standard_E16s_v3,northeurope,16,128,400
+vm7,Standard_DS13_v2,southeastasia,8,56,256
+vm8,Standard_F8s,eastasia,8,16,150
+vm9,Standard_B2s,southcentralus,2,4,50
+vm10,Standard_B4ms,australiaeast,4,16,100
+vm11,Standard_M64ms,westeurope,64,1024,2000
+vm12,Standard_L8s_v2,eastus,8,64,1024
+vm13,Standard_H16mr,southindia,16,224,2000
+vm14,Standard_NV6,southcentralus,6,56,380
+vm15,Standard_NC12,westus2,12,112,512

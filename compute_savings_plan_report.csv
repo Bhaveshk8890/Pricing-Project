@@ -1,0 +1,3 @@
+name,azure_instance_type,azure_region,Mapped AWS Instance,Mapped AWS Region,AWS Price ($/hr),AWS Monthly ($),AWS Yearly ($)
+VM1,Standard_F4s_v2,eastus,c5.xlarge,US East (N. Virginia),0.17,124.10000000000001,1489.2
+VM2,Standard_D4s_v3,westeurope,t3.xlarge,EU (Ireland),0.1824,133.15200000000002,1597.824

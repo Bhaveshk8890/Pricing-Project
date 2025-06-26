@@ -23,5 +23,5 @@ def generate_cost_report(subscription_id):
 
 # Example Run
 if __name__ == "__main__":
-    subscription_id = "YOUR_SUBSCRIPTION_ID"
+    subscription_id = "84f7ce89-8e23-4da8-ae8b-c8c99d5eba51"
     generate_cost_report(subscription_id)

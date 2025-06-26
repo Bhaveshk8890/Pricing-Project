@@ -1,0 +1,16 @@
+name,azure_instance_type,azure_region,cores,memory,storage,Mapped AWS Instance,Mapped AWS Region,Azure Price ($/hr),AWS Price ($/hr),Azure Monthly ($),Azure Yearly ($),AWS Monthly ($),AWS Yearly ($)
+vm1,Standard_D2s_v3,eastus,2,8,100,m5.large,us-east-1,,0.096,,,70.08,840.96
+vm2,Standard_D4s_v3,eastus2,4,16,200,m5.xlarge,us-east-1,,0.192,,,140.16,1681.92
+vm3,Standard_D8s_v3,centralus,8,32,200,m5.2xlarge,us-east-2,,0.384,,,280.32,3363.84
+vm4,Standard_F48s_v2,westeurope,48,96,100,c5.12xlarge,eu-west-2,,2.424,,,1769.52,21234.239999999998
+vm5,Standard_E4s_v3,westeurope,4,32,200,r5.xlarge,eu-west-2,,0.296,,,216.07999999999998,2592.96
+vm6,Standard_E16s_v3,northeurope,16,128,400,r5.4xlarge,eu-west-1,,1.128,,,823.4399999999999,9881.279999999999
+vm7,Standard_DS13_v2,southeastasia,8,56,256,m5.4xlarge,ap-southeast-1,,0.96,,,700.8,8409.599999999999
+vm8,Standard_F8s,eastasia,8,16,150,c5.2xlarge,ap-east-1,,0.432,,,315.36,3784.32
+vm9,Standard_B2s,southcentralus,2,4,50,t3.small,us-west-2,,0.0208,,,15.184,182.208
+vm10,Standard_B4ms,australiaeast,4,16,100,t3.large,ap-southeast-2,0.416,0.1056,303.68,3644.16,77.088,925.0559999999999
+vm11,Standard_M64ms,westeurope,64,1024,2000,u-6tb1.metal,eu-west-2,,,,,,
+vm12,Standard_L8s_v2,eastus,8,64,1024,i3.2xlarge,us-east-1,,0.624,,,455.52,5466.24
+vm13,Standard_H16mr,southindia,16,224,2000,u-3tb1.56xlarge,,,,,,,
+vm14,Standard_NV6,southcentralus,6,56,380,g4dn.xlarge,us-west-2,,0.0,,,0.0,0.0
+vm15,Standard_NC12,westus2,12,112,512,p3.8xlarge,us-west-2,,12.24,,,8935.2,107222.40000000001

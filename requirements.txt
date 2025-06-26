@@ -2,3 +2,4 @@ azure-identity
 azure-mgmt-compute
 boto3
 pandas
+requests
